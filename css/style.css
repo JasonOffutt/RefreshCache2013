@@ -1,0 +1,46 @@
+body {
+    color: #111;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+.rc-logo {
+    font-family: Rockwell;
+    font-size: 48px;
+    color: #777;
+}
+
+.rc-dk-blue {
+    color: #5fa5da;
+}
+
+.rc-md-blue {
+    color: #a5d4f2;
+}
+
+.problem1, .problem4 {
+    position: relative;
+    min-height: 300px;
+    font-size: 16px;
+}
+
+.problem3 {
+    position: relative;
+    min-height: 500px;
+}
+
+pre {
+    font-size: 20px;
+    padding: 20px;
+}
+
+#back {
+    margin: 20px 0px;
+}

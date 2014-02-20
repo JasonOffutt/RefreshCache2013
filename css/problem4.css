@@ -1,0 +1,13 @@
+.problem4 > div {
+	width: 0px;
+    height: 0px;
+    border-right: 100px solid transparent;
+    border-top: 100px solid #f3d078;
+    border-left: 100px solid #f3d078;
+    border-bottom: 100px solid #f3d078;
+    border-radius: 100px;
+    /*position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0px 0px -100px;*/
+}
